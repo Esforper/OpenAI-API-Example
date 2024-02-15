@@ -37,11 +37,8 @@ This project serves as a basic example of using the OpenAI GPT-3.5-turbo API. It
 ## Configuration
 
 Make sure to have a valid OpenAI API key to use this script.
+It is recommended to use in vs code jupiter plugin
 
 ## Contributing
 
 Feel free to contribute to the project by opening issues or submitting pull requests.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
